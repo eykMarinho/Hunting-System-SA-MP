@@ -1,4 +1,4 @@
-# 🫧 SA-MP Advanced Hunting System
+# 🫧 SA-MP Hunting System
 
 *Hunter System - Sistema de Caça para SA-MP*
 
