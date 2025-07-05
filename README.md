@@ -88,7 +88,7 @@ Para implementar mudanças mais avançadas, você pode modificar as funções pr
 
 1. **Iniciar a Caça**: Use o comando `/assobiar` para atrair um animal. Um animal aparecerá em uma das 168 posições pré-definidas no mapa.
 
-2. **Abater o Animal**: Use a arma fornecida (Rifle de Caça - ID 34) para atirar no animal. Após um tiro bem-sucedido, o animal cairá no chão.
+2. **Abater o Animal**: Use uma arma para atirar no animal. Após um tiro bem-sucedido, o animal cairá no chão.
 
 3. **Coletar Recursos**: Aproxime-se do animal abatido para iniciar automaticamente o processo de coleta. Uma animação será exibida e após 20 segundos (configurável), você receberá a carne do animal.
 
@@ -100,12 +100,6 @@ Para implementar mudanças mais avançadas, você pode modificar as funções pr
 - **Animal Abatido**: O animal estará caído no chão e um checkpoint será criado
 - **Coleta em Andamento**: Uma animação será exibida e uma ferramenta será anexada ao jogador
 - **Carne Coletada**: Um objeto de carne será anexado ao jogador (slot 8)
-
-### Dicas
-
-- Você só pode caçar um animal por vez
-- A posição do animal é aleatória entre as 168 posições disponíveis
-- Venda a carne coletada para liberar espaço e ganhar dinheiro
 
 ## Licença
 
