@@ -10,7 +10,9 @@ Um vídeo demonstrativo do sistema de caça está disponível no YouTube. Assist
 
 [Assista ao vídeo demonstrativo no YouTube](https://www.youtube.com/watch?v=v3XCO3cmsj4)
 
-##Localidade
+## Localidade
+
+Esta é a área estratégica onde os animais aparecem no mapa, com 168 pontos de spawn cuidadosamente distribuídos em regiões florestais, colinas, vales e proximidades de corpos d'água para criar uma experiência de caça realista e imersiva.
 
 ![image](https://github.com/user-attachments/assets/ba99f819-3381-418b-bd3c-3d1c3d951a5f)
 
