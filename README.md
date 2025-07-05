@@ -1,8 +1,15 @@
-# SA-MP Advanced Hunting System
+# 🫧 SA-MP Advanced Hunting System
 
 *Hunter System - Sistema de Caça para SA-MP*
 
 Este é um sistema de caça para SA-MP (San Andreas Multiplayer) que permite aos jogadores participar de atividades de caça no servidor.
+
+## Demonstração
+
+Um vídeo demonstrativo do sistema de caça está disponível no YouTube. Assista para ver o sistema em funcionamento e entender melhor como ele funciona na prática.
+
+[Assista ao vídeo demonstrativo no YouTube](https://www.youtube.com/watch?v=v3XCO3cmsj4)
+
 
 ## Dependências
 
