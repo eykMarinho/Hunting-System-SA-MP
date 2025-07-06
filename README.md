@@ -106,8 +106,6 @@ Para implementar mudanças mais avançadas, você pode modificar as funções pr
 Este projeto está disponível para uso em servidores SA-MP sob as seguintes condições:
 
 - Você pode utilizar, modificar e distribuir este sistema em seu servidor
-- Você deve manter os créditos originais no código-fonte
-- Você não pode vender este sistema ou incluí-lo em pacotes comerciais sem autorização
 - Modificações e melhorias são encorajadas, mas devem ser compartilhadas com a comunidade quando possível
 
 ### Contribuição
