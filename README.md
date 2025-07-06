@@ -99,7 +99,7 @@ Para implementar mudanças mais avançadas, você pode modificar as funções pr
 - **Animal Vivo**: O animal aparecerá em pé na posição gerada
 - **Animal Abatido**: O animal estará caído no chão e um checkpoint será criado
 - **Coleta em Andamento**: Uma animação será exibida e uma ferramenta será anexada ao jogador
-- **Carne Coletada**: Um objeto de carne será anexado ao jogador (slot 8)
+- **Carne Coletada**: Um objeto de carne será anexado ao jogador
 
 ## Licença
 
